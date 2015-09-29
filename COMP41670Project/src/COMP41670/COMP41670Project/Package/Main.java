@@ -5,6 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		// Test Comment
 		System.out.println("Hello World");
+		System.out.println("Hello World");
 
 	}
 
